@@ -21,8 +21,8 @@ More fields but not really used in clustering
 
 Libraries Used
 
-pandas
-numpy
-sklearn
-geopy
-plotly
+pandas,
+numpy,
+sklearn,
+geopy,
+plotly.
